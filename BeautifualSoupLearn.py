@@ -44,3 +44,5 @@ print(link2)
 links=soup.find_all(class_="sister")
 print(links)
 print(soup.find_all(string=re.compile("l")))
+# 是否有属于
+print(tagA.has_attr('p'))

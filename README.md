@@ -4,3 +4,4 @@
 增加邮件发送工具
 爬取携程航班的信息
 BeautifualSoup学习
+增加gugu网站名片下载
